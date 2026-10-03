@@ -1,0 +1,7 @@
+mitdb_data/
+processed_data/
+latex_report_check/
+pandoc*.msi
+__pycache__/
+.ipynb_checkpoints/
+

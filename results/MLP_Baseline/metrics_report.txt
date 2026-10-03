@@ -1,0 +1,33 @@
+--- MLP_Baseline Final Metrics ---
+
+Class: Normal (N)
+Sensitivity (Recall): 0.7613
+Specificity: 0.9193
+Precision: 0.9850
+F1-Score: 0.8588
+
+Class: Supraventricular (S)
+Sensitivity (Recall): 0.1480
+Specificity: 0.9040
+Precision: 0.0108
+F1-Score: 0.0202
+
+Class: Ventricular (V)
+Sensitivity (Recall): 0.9587
+Specificity: 0.8852
+Precision: 0.4962
+F1-Score: 0.6539
+
+Class: Fusion (F)
+Sensitivity (Recall): 0.2317
+Specificity: 0.9802
+Precision: 0.1292
+F1-Score: 0.1659
+
+Class: Unknown (Q)
+Sensitivity (Recall): 0.0000
+Specificity: 0.9986
+Precision: 0.0000
+F1-Score: 0.0000
+
+Overall Accuracy: 0.7710
